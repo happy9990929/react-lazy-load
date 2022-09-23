@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/happy9990929/react-lazy-load/static/css/main.0502425e.css",
+    "main.js": "/happy9990929/react-lazy-load/static/js/main.0d4d6e5b.js",
+    "static/js/787.a53ee734.chunk.js": "/happy9990929/react-lazy-load/static/js/787.a53ee734.chunk.js",
+    "static/media/dog.jpg": "/happy9990929/react-lazy-load/static/media/dog.f307ffe0da7c75ecd20a.jpg",
+    "static/media/dog-placeholder.jpg": "/happy9990929/react-lazy-load/static/media/dog-placeholder.aafc6f8e0383a320db24.jpg",
+    "index.html": "/happy9990929/react-lazy-load/index.html",
+    "main.0502425e.css.map": "/happy9990929/react-lazy-load/static/css/main.0502425e.css.map",
+    "main.0d4d6e5b.js.map": "/happy9990929/react-lazy-load/static/js/main.0d4d6e5b.js.map",
+    "787.a53ee734.chunk.js.map": "/happy9990929/react-lazy-load/static/js/787.a53ee734.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0502425e.css",
+    "static/js/main.0d4d6e5b.js"
+  ]
+}
